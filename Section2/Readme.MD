@@ -3,7 +3,7 @@
 Contained custom postgresql image with car_dealership database and also sample data
 
 a) Command to build custom postgresql image
-docker build -t ck-postgres-image .
+docker build -t Dockerfile .
 
 b) Command to run custom docker image with postgresql
 docker run -d --name ck-postgres-container -p 5555:5432 ck-postgres-image
