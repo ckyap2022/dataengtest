@@ -12,6 +12,8 @@ https://github.com/bradjasper/ImportJSON/blob/master/ImportJSON.gs
 b) triggerAutoRefresh.gs
 https://gist.github.com/aborruso/68547b8df77423226bf7ac0b57d9b73e
 
+Note : We can accomplish auto covid 19 data update using a time-based Trigger that runs the triggerAutoRefresh.gs script on a schedule we specify (say every 1 hour or every 4 hours).
+
 #URL to access covid19 API data
 https://api.covid19api.com/country/Singapore/status/confirmed?from=2021-11-20T00:00:00Z&to=2021-11-27T00:00:00Z
 
