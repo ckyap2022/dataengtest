@@ -11,6 +11,8 @@ b) Remove any zeros prepended to the price field
 c) Delete any rows which do not have a name
 d) Create a new field named above_100, which is true if the price is strictly greater than 100
 
+#Output
+a) The processed datasets will be stored in c:\gov\output
+
 #Scheduler
 a) Schedule using Apache airflow to run 1am everyday
-b) The processed datasets will be stored in c:\gov\output
