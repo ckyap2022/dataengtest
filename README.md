@@ -1,3 +1,5 @@
+Note : For each section there is a subfolder which contained README.md that will explain the details regarding the task.
+
 Section 1: Data Pipelines
 The objective of this section is to design and implement a solution to process a data file on a regular interval (e.g. daily). Assume that there are 2 data files dataset1.csv and dataset2.csv, design a solution to process these files, along with the scheduling component. The expected output of the processing task is a CSV file including a header containing the field names.
 
