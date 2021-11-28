@@ -31,3 +31,16 @@ vhigh,vhigh,2,2,big,med,unacc
 vhigh,vhigh,2,2,big,high,unacc
 vhigh,vhigh,2,4,small,low,unacc
 vhigh,vhigh,2,4,small,med,unacc
+
+#The model evaluates cars according to the following concept structure:
+
+   CAR                      car acceptability
+   . PRICE                  overall price
+   . . buying               buying price
+   . . maint                price of the maintenance
+   . TECH                   technical characteristics
+   . . COMFORT              comfort
+   . . . doors              number of doors
+   . . . persons            capacity in terms of persons to carry
+   . . . lug_boot           the size of luggage boot
+   . . safety               estimated safety of the car
