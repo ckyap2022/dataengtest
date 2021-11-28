@@ -18,3 +18,5 @@ group by c.name, a.order_no) z
 order by 3 desc
 limit 3
 
+Note : May need to consider to add index for transact_dt and voided fields.
+
