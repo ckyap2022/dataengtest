@@ -2,10 +2,11 @@
 - Google spreadsheet & google script : To pull covid 19 data from api.covid19api.com
 - Google data studio : To display graph for covid 19 cases
 
-#Link to access google spreadsheet
+#URL to access google spreadsheet
 https://docs.google.com/spreadsheets/d/1b2BTy2kbCAUCKQ8R_6INZHs3iDzaPbdusbuHs9PeM2Q/edit?usp=sharing
 
 #URL to access google script
+
 a) ImportJSON.gs
 https://github.com/bradjasper/ImportJSON/blob/master/ImportJSON.gs
 
