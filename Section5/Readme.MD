@@ -44,3 +44,19 @@ vhigh,vhigh,2,4,small,med,unacc
    . . . persons            capacity in terms of persons to carry
    . . . lug_boot           the size of luggage boot
    . . safety               estimated safety of the car
+
+#Car price evaluation is uploaded to the repos and the file name is car_evaluation.py
+
+#Car sample data called car_data.csv is uploaded to repos.
+
+#Output from Decision Tree Regression Model
+
+Predicted price: for maintainance =  72
+
+Predicted price: for doors =  108
+
+Predicted price: for lug_boot =  90
+
+Predicted price: for safety =  90
+
+Predicted price: for class =  222
