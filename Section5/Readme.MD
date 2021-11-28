@@ -1,4 +1,5 @@
-#Section 5: Machine Learning Using the dataset from https://archive.ics.uci.edu/ml/datasets/Car+Evaluation, create a machine learning model to predict the buying price given the following parameters:
+#Section 5: Machine Learning Using the dataset from https://archive.ics.uci.edu/ml/datasets/Car+Evaluation, 
+create a machine learning model to predict the buying price given the following parameters:
 
 Maintenance = High 
 Number of doors = 4 
@@ -14,6 +15,8 @@ doors        2, 3, 4, 5-more
 persons      2, 4, more
 lug_boot     small, med, big
 safety       low, med, high
+class values unacc, acc, good, vgood
+
 
 #Sample Data (car.data file):
 
