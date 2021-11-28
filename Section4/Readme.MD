@@ -20,4 +20,3 @@ https://api.covid19api.com/country/Singapore/status/confirmed?from=2021-11-20T00
 #Covid19 Graph/Dashboard built using Google data studio
 https://datastudio.google.com/reporting/279056df-c459-47c4-8912-7128ebac4f1a/page/yEWgC
 
-
